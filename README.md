@@ -1,12 +1,9 @@
 
 # Healthcare Management System
 
-A comprehensive healthcare management system designed to streamline patient care, appointment scheduling, and medical record management. This project serves as a learning platform for modern enterprise Java development practices and cloud-native technologies.
+This healthcare management system streamlines patient care, appointment scheduling, and medical record management. It enables efficient management of patient data, appointments, and documentation, with real-time notifications and advanced search features, all designed for scalability, security, and high performance. As a learning project, it covers a broad range of technologies, including the Java ecosystem, backend development, cloud infrastructure, and databases, while also integrating DevOps practices for deployment, continuous integration, and streamlined operations.
 
-**## Project Overview**
-This system enables healthcare providers to manage patient records, schedule appointments, and handle medical documentation efficiently. Built with scalability and security in mind, it incorporates real-time notifications and advanced search capabilities.
-
-**## Technology Stack**
+### Technology Stack will be use
 - ****Core & Web****: Java 17, Spring Boot 3.4.1, Spring MVC, Spring Security 6.4.1, GraphQL
 - ****Databases****: PostgreSQL, MongoDB, Redis
 - ****Search & Caching****: Elasticsearch, Redis
@@ -19,7 +16,7 @@ This system enables healthcare providers to manage patient records, schedule app
 - ****Monitoring****: Prometheus, Grafana, ELK Stack, Jaeger
 - ****Others****: Liquibase, Lombok, MapStruct, ETC
 
-**## Learning Objectives**
+### Learning Objectives
 - Enterprise application development (Spring Boot, Spring MVC, GraphQL)
 - Advanced database management (PostgreSQL, MongoDB, Redis)
 - Security implementation (Spring Security, JWT, OAuth2)
@@ -32,16 +29,16 @@ This system enables healthcare providers to manage patient records, schedule app
 - API design and documentation (GraphQL, OpenAPI)
 - Testing strategies (JUnit, Mockito, TestContainers)
 
-**## Getting Started**
+### Getting Started
 
-**### Prerequisites**
+**Prerequisites**
 ```bash
 - JDK 17
 - Maven 3.9+
 - Docker Desktop
 - Git
 ```
-## Quick Start
+### Quick Start
 
 1. **Clone the repository**
 ```bash
